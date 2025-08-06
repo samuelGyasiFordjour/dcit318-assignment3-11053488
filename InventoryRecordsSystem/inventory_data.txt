@@ -1,0 +1,11 @@
+﻿=== INVENTORY DATA ===
+Saved on: 2025-08-06 12:49:57
+Total Items: 5
+
+INVENTORY ITEMS:
+================
+1|Laptop Computer|25|2025-07-15 00:00:00
+2|Office Chair|50|2025-07-20 00:00:00
+3|Wireless Mouse|100|2025-07-25 00:00:00
+4|Monitor 24 inch|30|2025-08-01 00:00:00
+5|USB Cable|200|2025-08-05 00:00:00
